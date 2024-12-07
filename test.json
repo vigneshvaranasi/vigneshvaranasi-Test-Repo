@@ -1,0 +1,33 @@
+{
+    "data":{
+        "name":"Testing",
+        "role":"Developer",
+        "email":"testing@gmail.com",
+        "github":"testing",
+        "linkedin":"testing",
+        "twitter":"testing",
+        "instagram":"testing",
+        "projects":[
+            {
+                "name":"Project 1",
+                "description":"This is a project",
+                "tech":"Node.js, Express, MongoDB",
+                "link":"proj1.com"
+            },
+            {
+                "name":"Project 2",
+                "description":"This is a project",
+                "tech":"React, Redux, Node.js",
+                "link":"proj2.com"
+            }
+        ],
+        "about-me":"I am a developer",
+        "skills":[
+            "Node.js",
+            "Express",
+            "MongoDB",
+            "React",
+            "Redux"
+        ]
+    }
+}
