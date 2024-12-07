@@ -19,6 +19,12 @@
                 "description":"This is a project",
                 "tech":"React, Redux, Node.js",
                 "link":"proj2.com"
+            },
+            {
+                "name":"Project 3",
+                "description":"This is a project",
+                "tech":"React, Redux, Node.js",
+                "link":"proj3.com"
             }
         ],
         "about-me":"I am a developer",
